@@ -1,5 +1,5 @@
 #  About Me:
-🔭 I’m currently looking for a position with new challenges that contributes to my knowledge<br>👯 I’m looking to collaborate on various front-end projects<br>🌱 I’m currently learning Django, reviewing Java and plan to learn SQL<br>💬 Ask me about Angular and Java basics<br>⚡ Fun fact: Two weeks of staying away from programming and codes reset my knowledge of programming, how come? <br> I wrote Sytem.out.print.log("Hello world")
+🔭 I’m currently looking for a position with new challenges that contributes to my knowledge<br> I’m looking to collaborate on various back-end projects<br>🌱 I’m currently learning .Net Core, reviewing Angular and plan to stengthen my SQL and EF knowledge<br>⚡
 
 
 ## 🌐 Socials:
